@@ -5,6 +5,7 @@ Requires 3 columns of data in the order of Scan number, CCS/DT data, intensity/s
 Example input and output file can be viewed/downoaded. 
 
 input : https://github.com/Edward1292/Excel_Chart_CCSD/blob/master/example_input.xlsx
+
 output : https://github.com/Edward1292/Excel_Chart_CCSD/blob/master/example_ouput_Chart.xlsx
 
 Simply download the exe file and start adding those charts!
