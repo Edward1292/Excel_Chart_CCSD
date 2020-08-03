@@ -1,5 +1,5 @@
 # Excel_Chart_CCSD
-A simple excel writer for making uniform CCSDs. Takes .xlsx files containing CCS / DT data and transforms them into a new file with a chart plotted. Can handle multiple files at once. Requires 3 columns of data in the order of column1 = Scan number or index, column2 = CCS or DT (x axis), column3 = intensity or signal (y axis). Example input and output file can be viewed/downloaded.
+A simple excel writer for making uniform CCSDs. Takes .xlsx files containing CCS  data and transforms them into a new file with a chart plotted. Can handle multiple files at once. Requires 3 columns of data in the order of column1 = Scan number or index, column2 = CCS  (x axis), column3 = intensity or signal (y axis). Example input and output file can be viewed/downloaded.
 
 input : https://github.com/Edward1292/Excel_Chart_CCSD/blob/master/example_input.xlsx
 
