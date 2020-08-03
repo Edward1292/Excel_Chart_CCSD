@@ -11,3 +11,5 @@ output : https://github.com/Edward1292/Excel_Chart_CCSD/blob/master/example_oupu
 Simply download the exe file and start adding those charts!
 
 Download here! https://github.com/Edward1292/Excel_Chart_CCSD/blob/master/Excel_Chart_CCSD.exe
+
+N.B. Windows only.
